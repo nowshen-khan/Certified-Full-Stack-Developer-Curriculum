@@ -38,5 +38,5 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Design a Cafe Menu HTML](BasicCSS/design-a-cafe-menu.html) <br> [& CSS](BasicCSS/design-a-cafe-menu.css)  | [Design a Business Card HTML](BasicCSS/design-a-business-card.html) <br> [& CSS](BasicCSS/design-a-business-card.css) |
-| ii.     | - | [Build a Stylized To-Do List](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
-| iii.     | - | [Design a Blog Post Card](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
+| ii.     | - | [Build a Stylized To-Do List HTML](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
+| iii.     | - | [Design a Blog Post Card HTML](BasicCSS/lab-blog-post-card.html) <br> [& CSS](BasicCSS/lab-blog-post-card.css) |
