@@ -40,3 +40,12 @@
 | i.     | [Design a Cafe Menu HTML](BasicCSS/design-a-cafe-menu.html) <br> [& CSS](BasicCSS/design-a-cafe-menu.css)  | [Design a Business Card HTML](BasicCSS/design-a-business-card.html) <br> [& CSS](BasicCSS/design-a-business-card.css) |
 | ii.     | - | [Build a Stylized To-Do List HTML](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
 | iii.     | - | [Design a Blog Post Card HTML](BasicCSS/lab-blog-post-card.html) <br> [& CSS](BasicCSS/lab-blog-post-card.css) |
+
+
+### **. [Colors](Colors)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Set of Colored Markers HTML](Colors/build-a-set-of-colored-markers.html) <br> [& CSS](Colors/build-a-set-of-colored-markers.css)  | [ HTML](Colors) <br> [& CSS](Colors) |
+<!-- | ii.     | - | [Build a Stylized To-Do List HTML](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
+| iii.     | - | [Design a Blog Post Card HTML](BasicCSS/lab-blog-post-card.html) <br> [& CSS](BasicCSS/lab-blog-post-card.css) | -->
