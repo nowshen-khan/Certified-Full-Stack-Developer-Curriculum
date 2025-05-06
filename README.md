@@ -41,6 +41,20 @@
 | ii.     | - | [Build a Stylized To-Do List HTML](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
 | iii.     | - | [Design a Blog Post Card HTML](BasicCSS/lab-blog-post-card.html) <br> [& CSS](BasicCSS/lab-blog-post-card.css) |
 
+### 2. [Absolute and Relative Units](AbsoluteAndRelativeUnits)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | -  | [Build an Event Flyer Page HTML](AbsoluteAndRelativeUnits/build-an-event-flyer-page.html) <br> [& CSS](AbsoluteAndRelativeUnits/build-an-event-flyer-page.css) |
+
+
+### 3. [Pseudo Classes and Elements](PseudoClassesAndElements)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Design a Greeting Card HTML](PseudoClassesAndElements/Design-a-Greeting-Card.html) <br> [& CSS](PseudoClassesAndElements/Design-a-Greeting-Card.css) | [Build a Job Application Form] |
+
+
 
 ### **. [Colors](Colors)
 
