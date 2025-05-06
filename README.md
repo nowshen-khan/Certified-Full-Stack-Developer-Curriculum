@@ -52,11 +52,11 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Design a Greeting Card HTML](PseudoClassesAndElements/Design-a-Greeting-Card.html) <br> [& CSS](PseudoClassesAndElements/Design-a-Greeting-Card.css) | [Build a Job Application Form] |
+| i.     | [Design a Greeting Card HTML](PseudoClassesAndElements/Design-a-Greeting-Card.html) <br> [& CSS](PseudoClassesAndElements/Design-a-Greeting-Card.css) | [Build a Job Application Form HTML](PseudoClassesAndElements/lab-job-application-form.html) <br> [& CSS](PseudoClassesAndElements/lab-job-application-form.css)|
 
 
 
-### **. [Colors](Colors)
+### 4. [Colors](Colors)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
