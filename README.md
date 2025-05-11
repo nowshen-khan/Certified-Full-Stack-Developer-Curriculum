@@ -30,6 +30,7 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | - | [Build a Checkout Page](Accessibility/build-a-checkout-page.html) |
+| i.     | - | [Build a Multimedia Player](Accessibility/lab-multimedia-player.html) |
 
 ## CSS
 
