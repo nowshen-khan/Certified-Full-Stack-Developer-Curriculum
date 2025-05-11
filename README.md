@@ -55,12 +55,15 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Design a Greeting Card HTML](PseudoClassesAndElements/Design-a-Greeting-Card.html) <br> [& CSS](PseudoClassesAndElements/Design-a-Greeting-Card.css) | [Build a Job Application Form HTML](PseudoClassesAndElements/lab-job-application-form.html) <br> [& CSS](PseudoClassesAndElements/lab-job-application-form.css)|
 
-
-
 ### 4. [Colors](Colors)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Set of Colored Markers HTML](Colors/build-a-set-of-colored-markers.html) <br> [& CSS](Colors/build-a-set-of-colored-markers.css)  | [Design a Set of Colored Boxes HTML](Colors/set-of-colored-boxes.html) <br> [& CSS](Colors/set-of-colored-boxes.css) |
-<!-- | ii.     | - | [Build a Stylized To-Do List HTML](BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](BasicCSS/build-a-stylized-to-do-list.css) |
-| iii.     | - | [Design a Blog Post Card HTML](BasicCSS/lab-blog-post-card.html) <br> [& CSS](BasicCSS/lab-blog-post-card.css) | -->
+
+### 5. [Styling Forms](StylingForms)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Design a Registration Form HTML](StylingForms/Workshop_Design_a_Registration_Form.html) <br> [& CSS](StylingForms/Workshop_Design_a_Registration_Form.css)  | [Design a Contact Form HTML](StylingForms/design-a-contact-form.html) <br> [& CSS](StylingForms/design-a-contact-form.css) |
+
