@@ -1,0 +1,26 @@
+body {
+	background-color: #f4f4f4;
+}
+
+.color-box {
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.color1 {
+	background-color: #00ff00;
+}
+.color2 {
+	background-color: rgb(128, 0, 128);
+}
+.color3 {
+	background-color: orange;
+}
+.color4 {
+	background-color: hsl(59deg, 61%, 31%);
+}
+.color5 {
+	background-color: red;
+}
