@@ -67,3 +67,9 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Design a Registration Form HTML](StylingForms/Workshop_Design_a_Registration_Form.html) <br> [& CSS](StylingForms/Workshop_Design_a_Registration_Form.css)  | [Design a Contact Form HTML](StylingForms/design-a-contact-form.html) <br> [& CSS](StylingForms/design-a-contact-form.css) |
 
+### 6. [The Box Model](The_Box_Model)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Design a Rothko Painting HTML](The_Box_Model/Design_a_Rothko_Painting.html) <br> [& CSS](The_Box_Model/Design_a_Rothko_Painting.css)  | [Build a Confidential Email Page HTML](The_Box_Model) <br> [& CSS](The_Box_Model) |
+
