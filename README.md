@@ -71,5 +71,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Design a Rothko Painting HTML](The_Box_Model/Design_a_Rothko_Painting.html) <br> [& CSS](The_Box_Model/Design_a_Rothko_Painting.css)  | [Build a Confidential Email Page HTML](The_Box_Model) <br> [& CSS](The_Box_Model) |
+| i.     | [Design a Rothko Painting HTML](The_Box_Model/Design_a_Rothko_Painting.html) <br> [& CSS](The_Box_Model/Design_a_Rothko_Painting.css)  | [Build a Confidential Email Page HTML](The_Box_Model/build-a-confidential-email-page.html) <br> [& CSS](The_Box_Model/build-a-confidential-email-page.css) |
 
