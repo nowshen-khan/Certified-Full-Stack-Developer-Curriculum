@@ -77,5 +77,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Flexbox Photo Gallery HTML](Flexbox/Build_a_Flexbox_Photo_Gallery.html) <br> [& CSS](Flexbox/Build_a_Flexbox_Photo_Gallery.css)  | [Build a Page of Playing CardsHTML](Flexbox) <br> [& CSS](Flexbox) |
+| i.     | [Build a Flexbox Photo Gallery HTML](Flexbox/Build_a_Flexbox_Photo_Gallery.html) <br> [& CSS](Flexbox/Build_a_Flexbox_Photo_Gallery.css)  | [Build a Page of Playing Cards HTML](Flexbox) <br> [& CSS](Flexbox) |
 
