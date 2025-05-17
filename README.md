@@ -79,3 +79,9 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Flexbox Photo Gallery HTML](Flexbox/Build_a_Flexbox_Photo_Gallery.html) <br> [& CSS](Flexbox/Build_a_Flexbox_Photo_Gallery.css)  | [Build a Page of Playing Cards HTML](Flexbox/build-a-page-of-playing-cards.html) <br> [& CSS](Flexbox/build-a-page-of-playing-cards.css) |
 
+### 8. [Typography](Typography)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Nutritional Label HTML](Typography/Build_a_Nutritional_Label.html) <br> [& CSS](Typography/Build_a_Nutritional_Label.css)  | [Build a Newspaper Article HTML](Typography) <br> [& CSS](Typography) |
+
