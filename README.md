@@ -83,5 +83,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Nutritional Label HTML](CSS/Typography/Build_a_Nutritional_Label.html) <br> [& CSS](CSS/Typography/Build_a_Nutritional_Label.css)  | [Build a Newspaper Article HTML](CSS/Typography) <br> [& CSS](CSS/Typography) |
+| i.     | [Build a Nutritional Label HTML](CSS/Typography/Build_a_Nutritional_Label.html) <br> [& CSS](CSS/Typography/Build_a_Nutritional_Label.css)  | [Build a Newspaper Article HTML](CSS/Typography/build-a-newspaper-article.html) <br> [& CSS](CSS/Typography/build-a-newspaper-article.css) |
 
