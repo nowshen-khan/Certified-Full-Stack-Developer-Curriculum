@@ -30,7 +30,8 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | - | [Build a Checkout Page](HTML/Accessibility/build-a-checkout-page.html) |
-| i.     | - | [Build a Multimedia Player](HTML/Accessibility/lab-multimedia-player.html) |
+| ii.     | - | [Build a Multimedia Player](HTML/Accessibility/lab-multimedia-player.html) |
+| iii.     | - | [Design a Movie Review Page](HTML/Accessibility/design-a-movie-review-page.html) |
 
 ## CSS
 
@@ -84,4 +85,10 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Nutritional Label HTML](CSS/Typography/Build_a_Nutritional_Label.html) <br> [& CSS](CSS/Typography/Build_a_Nutritional_Label.css)  | [Build a Newspaper Article HTML](CSS/Typography/build-a-newspaper-article.html) <br> [& CSS](CSS/Typography/build-a-newspaper-article.css) |
+
+### 9. [Accessibility](CSS/Accessibility)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Quiz Webpage HTML](CSS/Accessibility) <br> [& CSS](CSS/Accessibility)  | [Build a Tribute Page HTML](CSS/Accessibility) <br> [& CSS](CSS/Accessibility) |
 
