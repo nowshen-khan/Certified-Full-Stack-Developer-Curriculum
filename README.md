@@ -90,5 +90,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Quiz Webpage HTML](CSS/Accessibility) <br> [& CSS](CSS/Accessibility)  | [Build a Tribute Page HTML](CSS/Accessibility) <br> [& CSS](CSS/Accessibility) |
+| i.     | [Build a Quiz Webpage HTML](CSS/Accessibility/Build_a_Quiz_Webpage.html) <br> [& CSS](CSS/Accessibility/Build_a_Quiz_Webpage.css)  | [Build a Tribute Page HTML](CSS/Accessibility/build-a-tribute-page.html) <br> [& CSS](CSS/Accessibility/build-a-tribute-page.css) |
 

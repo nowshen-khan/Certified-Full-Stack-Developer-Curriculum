@@ -1,0 +1,33 @@
+/* CSS Document */
+/* This is the CSS file for the Tribute Page project of FreeCodeCamp */
+
+#image {
+	max-width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 10px 0;
+}
+#img-caption {
+	background-color: white;
+	text-align: center;
+	justify-content: center;
+	padding: 20px;
+}
+
+#main {
+	background-color: lightgray;
+}
+
+#title,
+.sub-title,
+h2,
+.note {
+	text-align: center;
+}
+
+li {
+	padding: 10px;
+	text-indent: 2;
+}
