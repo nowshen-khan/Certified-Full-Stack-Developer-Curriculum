@@ -92,3 +92,8 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Quiz Webpage HTML](CSS/Accessibility/Build_a_Quiz_Webpage.html) <br> [& CSS](CSS/Accessibility/Build_a_Quiz_Webpage.css)  | [Build a Tribute Page HTML](CSS/Accessibility/build-a-tribute-page.html) <br> [& CSS](CSS/Accessibility/build-a-tribute-page.css) |
 
+### 10. [Positioning](CSS/Positioning)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Cat Painting HTML](CSS/Positioning/Build_a_Cat_Painting.html) <br> [& CSS](CSS/Positioning/Build_a_Cat_Painting.css)  | [Build a House Painting HTML](CSS/Positioning) <br> [& CSS](CSS/Positioning) |
