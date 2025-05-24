@@ -96,4 +96,4 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Cat Painting HTML](CSS/Positioning/Build_a_Cat_Painting.html) <br> [& CSS](CSS/Positioning/Build_a_Cat_Painting.css)  | [Build a House Painting HTML](CSS/Positioning) <br> [& CSS](CSS/Positioning) |
+| i.     | [Build a Cat Painting HTML](CSS/Positioning/Build_a_Cat_Painting.html) <br> [& CSS](CSS/Positioning/Build_a_Cat_Painting.css)  | [Build a House Painting HTML](CSS/Positioning/build-a-house-painting.html) <br> [& CSS](CSS/Positioning/build-a-house-painting.css) |
