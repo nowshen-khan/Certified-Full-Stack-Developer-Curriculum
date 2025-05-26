@@ -1,0 +1,66 @@
+/* build-a-book-inventory-app.css */
+/* This file contains the CSS styles for the book inventory app */
+
+tr[class="read"] {
+	background-image: linear-gradient(white, #b0ffb0);
+}
+
+tr[class="to-read"] {
+	background-image: linear-gradient(white, #e4ede4);
+}
+
+tr[class="in-progress"] {
+	background-image: linear-gradient(white, #ffe6b4);
+}
+
+span {
+	display: inline-block;
+}
+
+tr[class="to-read"] span[class="status"] {
+	border: 1px solid #ff301e;
+	border-radius: 50px;
+	background-image: linear-gradient(#ff5b4c, #ff301e);
+}
+
+tr[class="read"] span[class="status"] {
+	border: 1px solid #00ff00;
+	border-radius: 50px;
+	background-image: linear-gradient(#00ff00, #00f500);
+}
+
+tr[class="in-progress"] span[class="status"] {
+	border: 1px solid #f3aa18;
+	border-radius: 50px;
+	background-image: linear-gradient(white, #f3aa18);
+}
+
+span[class="status"],
+span[class^="rate"] {
+	height: 10px;
+	width: 80%;
+	padding: 10px;
+	text-align: center;
+}
+
+span[class^="rate"] > span {
+	border: 1px solid gray;
+	border-radius: 15px;
+	margin: 5px;
+	height: 5px;
+	width: 5px;
+	background-color: yellow;
+}
+
+span[class~="one"] *:first-child {
+	background-image: linear-gradient(white, yellow);
+}
+
+span[class~="two"] *:first-child,
+span[class~="two"] *:nth-child(2) {
+	background-image: linear-gradient(white, yellow);
+}
+
+span[class~="three"] span {
+	background-image: linear-gradient(white, yellow);
+}

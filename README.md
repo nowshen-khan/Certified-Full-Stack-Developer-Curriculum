@@ -102,4 +102,4 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Balance Sheet HTML](CSS/Attribute_Selectors/Build_a_Balance_Sheet.html) <br> [& CSS](CSS/Attribute_Selectors/Build_a_Balance_Sheet.css)  | [Build a Book Inventory App HTML](CSS/Attribute_Selectors) <br> [& CSS](CSS/Attribute_Selectors) |
+| i.     | [Build a Balance Sheet HTML](CSS/Attribute_Selectors/Build_a_Balance_Sheet.html) <br> [& CSS](CSS/Attribute_Selectors/Build_a_Balance_Sheet.css)  | [Build a Book Inventory App HTML](CSS/Attribute_Selectors/build-a-book-inventory.html) <br> [& CSS](CSS/Attribute_Selectors/build-a-book-inventory-app.css) |
