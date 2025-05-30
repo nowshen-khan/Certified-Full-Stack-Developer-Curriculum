@@ -98,8 +98,14 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Cat Painting HTML](CSS/Positioning/Build_a_Cat_Painting.html) <br> [& CSS](CSS/Positioning/Build_a_Cat_Painting.css)  | [Build a House Painting HTML](CSS/Positioning/build-a-house-painting.html) <br> [& CSS](CSS/Positioning/build-a-house-painting.css) |
 
-### 10. [Attribute Selectors](CSS/Attribute_Selectors)
+### 11. [Attribute Selectors](CSS/Attribute_Selectors)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Balance Sheet HTML](CSS/Attribute_Selectors/Build_a_Balance_Sheet.html) <br> [& CSS](CSS/Attribute_Selectors/Build_a_Balance_Sheet.css)  | [Build a Book Inventory App HTML](CSS/Attribute_Selectors/build-a-book-inventory.html) <br> [& CSS](CSS/Attribute_Selectors/build-a-book-inventory-app.css) |
+
+### 12. [Responsive Design](CSS/Responsive_Design)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Design a Piano HTML](CSS/Responsive_Design/Design_a_Piano.html) <br> [& CSS](CSS/Responsive_Design/Design_a_Piano.css)  | [Build a Technical Documentation Page HTML](CSS/Responsive_Design/build-a-technical-documentation-page.html) <br> [& CSS](CSS/Responsive_Design/build-a-technical-documentation-page.css) |

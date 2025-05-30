@@ -1,0 +1,29 @@
+/*
+  Build a Technical Documentation Page
+  FreeCodeCamp Responsive Web Design Certification
+  https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
+*/
+@media only screen and (max-width: 600px) {
+	header {
+		font-size: 1.5rem;
+	}
+
+	#navbar > ul > li {
+		list-style-type: none;
+		padding: 10px 0;
+		a {
+			text-decoration: none;
+			color: black;
+		}
+	}
+
+	body {
+		display: flex;
+	}
+	nav {
+		width: 3000px;
+		padding-right: 20px;
+		overflow-y: scroll;
+		border: 1px solid #ccc;
+	}
+}
