@@ -1,0 +1,82 @@
+/*
+  This file is part of the CSS Variables project.
+  See the README.md file at the top-level directory of this repository,
+  for more information about this project.
+*/
+
+:root {
+	--color0: #ffffff;
+	--color1: #cdfecd;
+	--color2: #9bfc9b;
+	--color3: #51fb51;
+	--color4: #05c705;
+	--color5: #037c03;
+
+	--solid-border: solid;
+	--dashed-border: dashed;
+}
+body {
+	background-color: #acd2bf;
+}
+
+td {
+	height: 15px;
+}
+
+.available-0 {
+	background-color: var(--color0);
+}
+.available-1 {
+	background-color: var(--color1);
+}
+.available-2 {
+	background-color: var(--color2);
+}
+.available-3 {
+	background-color: var(--color3);
+}
+.available-4 {
+	background-color: var(--color4);
+}
+.available-5 {
+	background-color: var(--color5);
+}
+
+.half td {
+	border-bottom: var(--dashed-border);
+}
+
+.sharp td {
+	border-bottom: var(--solid-border);
+}
+
+#legend {
+	width: 50%;
+	text-align: center;
+	margin-top: 10px;
+}
+#legend-line {
+	display: flex;
+	padding: 2px;
+	margin: 2px;
+	width: 100%;
+}
+span {
+	margin: 10px;
+}
+
+#legend-gradient {
+	background-image: linear-gradient(
+		90deg,
+		var(--color0) 0% 17%,
+		var(--color1) 17% 34%,
+		var(--color2) 34% 51%,
+		var(--color3) 51% 67%,
+		var(--color4) 67% 85%,
+		var(--color5) 85% 100%
+	);
+	padding: 0 10px;
+	display: inline;
+	border: 1px var(--solid-border) black;
+	width: 100%;
+}

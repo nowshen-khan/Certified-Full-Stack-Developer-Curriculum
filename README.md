@@ -115,9 +115,16 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a City Skyline HTML](CSS/Variables/Build_a_City_Skyline.html) <br> [& CSS](CSS/Variables/Build_a_City_Skyline.css)  | [Build an Availability Table HTML](CSS/Variables) <br> [& CSS](CSS/Variables) |
+| i.     | [Build a City Skyline HTML](CSS/Variables/Build_a_City_Skyline.html) <br> [& CSS](CSS/Variables/Build_a_City_Skyline.css)  | [Build an Availability Table HTML](CSS/Variables/build-an-availability-table.html) <br> [& CSS](CSS/Variables/build-an-availability-table.css) |
 
-### 14. [](CSS/)
+### 14. [Grid](CSS/Grid)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Magazine HTML](CSS/Grid) <br> [& CSS](CSS/Grid)  | [Design a Magazine Layout HTML](CSS/Grid) <br> [& CSS](CSS/Grid) |
+| i.     | - | [Build a Product Landing Page HTML](CSS/Grid) <br> [& CSS](CSS/Grid) |
+
+### 15. [](CSS/)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
