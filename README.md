@@ -8,9 +8,10 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Cat Photo App](HTML/BasicHTML/build-a-cat-photo-app.html) | [Build a Recipe Page](HTML/BasicHTML/build-a-recipe-page.html) |
-| ii.    | - | [Build a Travel Agency Page](HTML/BasicHTML/build-a-travel-agency-page.html) |
-| iii.   | - | [Build a Video Compilation Page](HTML/BasicHTML/build-a-video-compilation-page.html) |
+| i.     | [Build a Curriculum Outline](HTML/BasicHTML/Build_a_Curriculum_Outline.html) | [Debug Camperbot's Profile Page](HTML/BasicHTML/lab-debug-camperbots-profile-page.html) |
+| ii.     | [Build a Cat Photo App](HTML/BasicHTML/build-a-cat-photo-app.html) | [Build a Recipe Page](HTML/BasicHTML/build-a-recipe-page.html) |
+| iii.    | - | [Build a Travel Agency Page](HTML/BasicHTML/build-a-travel-agency-page.html) |
+| iv.   | - | [Build a Video Compilation Page](HTML/BasicHTML/build-a-video-compilation-page.html) |
 
 ### 2. [Semantic HTML](HTML/SemanticHTML)
 
@@ -109,3 +110,15 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Design a Piano HTML](CSS/Responsive_Design/Design_a_Piano.html) <br> [& CSS](CSS/Responsive_Design/Design_a_Piano.css)  | [Build a Technical Documentation Page HTML](CSS/Responsive_Design/build-a-technical-documentation-page.html) <br> [& CSS](CSS/Responsive_Design/build-a-technical-documentation-page.css) |
+
+### 13. [Variables](CSS/Variables)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a City Skyline HTML](CSS/Variables/Build_a_City_Skyline.html) <br> [& CSS](CSS/Variables/Build_a_City_Skyline.css)  | [Build an Availability Table HTML](CSS/Variables) <br> [& CSS](CSS/Variables) |
+
+### 14. [](CSS/)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [ HTML](CSS/) <br> [& CSS](CSS/)  | [HTML](CSS/) <br> [& CSS](CSS/) |
