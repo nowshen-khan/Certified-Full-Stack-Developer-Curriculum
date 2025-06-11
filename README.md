@@ -122,10 +122,11 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Magazine HTML](CSS/Grid/Build_a_Magazine.html) <br> [& CSS](CSS/Grid/Build_a_Magazine.css)  | [Design a Magazine Layout HTML](CSS/Grid/design-a-magazine-layout.html) <br> [& CSS](CSS/Grid/design-a-magazine-layout.css) |
-| i.     | - | [Build a Product Landing Page HTML](CSS/Grid/build-a-product-landing-page.html) <br> [& CSS](CSS/Grid/build-a-product-landing-page.css) |
+| ii.     | - | [Build a Product Landing Page HTML](CSS/Grid/build-a-product-landing-page.html) <br> [& CSS](CSS/Grid/build-a-product-landing-page.css) |
 
-### 15. [](CSS/)
+### 15. [Animations](CSS/Animations)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [ HTML](CSS/) <br> [& CSS](CSS/)  | [HTML](CSS/) <br> [& CSS](CSS/) |
+| i.     | [Build an Animated Ferris Wheel HTML](CSS/Animations/Build_an_Animated_Ferris_Wheel.html) <br> [& CSS](CSS/Animations/Build_an_Animated_Ferris_Wheel.css)  | [Build a Moon Orbit HTML](CSS/Animations/) <br> [& CSS](CSS/Animations) |
+| ii.     | [Build a Flappy Penguin HTML](CSS/Animations/Build_a_Flappy_Penguin.html) <br> [& CSS](CSS/Animations/Build_a_Flappy_Penguin.css)  | [Build a Personal Portfolio HTML](CSS/Animations/) <br> [& CSS](CSS/Animations) |
