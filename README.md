@@ -128,5 +128,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build an Animated Ferris Wheel HTML](CSS/Animations/Build_an_Animated_Ferris_Wheel.html) <br> [& CSS](CSS/Animations/Build_an_Animated_Ferris_Wheel.css)  | [Build a Moon Orbit HTML](CSS/Animations/) <br> [& CSS](CSS/Animations) |
+| i.     | [Build an Animated Ferris Wheel HTML](CSS/Animations/Build_an_Animated_Ferris_Wheel.html) <br> [& CSS](CSS/Animations/Build_an_Animated_Ferris_Wheel.css)  | [Build a Moon Orbit HTML](CSS/Animations/build-a-moon-orbit.html) <br> [& CSS](CSS/Animations/build-a-moon-orbit.css) |
 | ii.     | [Build a Flappy Penguin HTML](CSS/Animations/Build_a_Flappy_Penguin.html) <br> [& CSS](CSS/Animations/Build_a_Flappy_Penguin.css)  | [Build a Personal Portfolio HTML](CSS/Animations/) <br> [& CSS](CSS/Animations) |
