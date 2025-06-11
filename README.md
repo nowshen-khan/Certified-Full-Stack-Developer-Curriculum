@@ -121,8 +121,8 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Magazine HTML](CSS/Grid/Build_a_Magazine.html) <br> [& CSS](CSS/Grid/Build_a_Magazine.css)  | [Design a Magazine Layout HTML](CSS/Grid) <br> [& CSS](CSS/Grid) |
-| i.     | - | [Build a Product Landing Page HTML](CSS/Grid) <br> [& CSS](CSS/Grid) |
+| i.     | [Build a Magazine HTML](CSS/Grid/Build_a_Magazine.html) <br> [& CSS](CSS/Grid/Build_a_Magazine.css)  | [Design a Magazine Layout HTML](CSS/Grid/design-a-magazine-layout.html) <br> [& CSS](CSS/Grid/design-a-magazine-layout.css) |
+| i.     | - | [Build a Product Landing Page HTML](CSS/Grid/build-a-product-landing-page.html) <br> [& CSS](CSS/Grid/build-a-product-landing-page.css) |
 
 ### 15. [](CSS/)
 
