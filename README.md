@@ -136,4 +136,6 @@
 
 ### 1. [Variables and Strings](JavaScript/Variables_and_Strings)
 
-
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Greeting Bot HTML](JavaScript/Variables_and_Strings/Build_a_Greeting_Bot.js)
