@@ -138,4 +138,4 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Greeting Bot HTML](JavaScript/Variables_and_Strings/Build_a_Greeting_Bot.js)
+| i.     | [Build a Greeting Bot](JavaScript/Variables_and_Strings/Build_a_Greeting_Bot.js) | [Build a JavaScript Trivia Bot](JavaScript/Variables_and_Strings//lab-javascript-trivia-bot.js) |
