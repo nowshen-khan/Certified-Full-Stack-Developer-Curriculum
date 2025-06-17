@@ -146,3 +146,11 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Mathbot](JavaScript/Booleans_and_Numbers/Build_a_Mathbot.js) | [Build a Fortune Teller](JavaScript/Booleans_and_Numbers/build-a-fortune-teller.js) |
+
+### 3. [Functions](JavaScript/Functions)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Calculator](JavaScript/Functions) | [Build an Email Masker](JavaScript/Functions) |
+| ii.     | [Build a Loan Qualification Checker](JavaScript/Functions) | [Build a Leap Year Calculator](JavaScript/Functions) |
+| ii.     | - | [Implement the Truncate String Algorithm](JavaScript/Functions) |
