@@ -151,6 +151,6 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Calculator](JavaScript/Functions) | [Build an Email Masker](JavaScript/Functions) |
-| ii.     | [Build a Loan Qualification Checker](JavaScript/Functions) | [Build a Leap Year Calculator](JavaScript/Functions) |
-| ii.     | - | [Implement the Truncate String Algorithm](JavaScript/Functions) |
+| i.     | [Build a Calculator](JavaScript/Functions/Build_a_Calculator.js) | [Build an Email Masker](JavaScript/Functions/build-an-email-masker.js) |
+| ii.     | [Build a Loan Qualification Checker](JavaScript/Functions/Build-a-Loan-Qualification-Checker.js) | [Build a Leap Year Calculator](JavaScript/Functions/build-a-leap-year-calculator.js) |
+| ii.     | - | [Implement the Truncate String Algorithm](JavaScript/Functions/truncate-a-string.js) |
