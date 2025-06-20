@@ -159,5 +159,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [](JavaScript/Arrays/) | [](JavaScript/Arrays/) |
+| i.     | [Build a Shopping List](JavaScript/Arrays/Build_a_Shopping_List.js) | [Build a Lunch Picker Program](JavaScript/Arrays/build-a-lunch-picker-program.js) |
 
