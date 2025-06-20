@@ -161,3 +161,9 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Shopping List](JavaScript/Arrays/Build_a_Shopping_List.js) | [Build a Lunch Picker Program](JavaScript/Arrays/build-a-lunch-picker-program.js) |
 
+### 5. [Objects](JavaScript/Objects)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Recipe Tracker](JavaScript/Objects/Build-a-Recipe-Tracker.js) | [Build a Quiz Game](JavaScript/Objects/) |
+
