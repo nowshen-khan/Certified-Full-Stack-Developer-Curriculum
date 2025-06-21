@@ -167,3 +167,10 @@
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Recipe Tracker](JavaScript/Objects/Build-a-Recipe-Tracker.js) | [Build a Quiz Game](JavaScript/Objects/lab-quiz-game.js) |
 
+### 6. [Loops](JavaScript/Loops)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Sentence Analyzer](JavaScript/Loops/Build_a_Sentence_Analyzer.js) | [Build a Factorial Calculator](JavaScript/Loops) |
+| ii.     | - | [Implement the Mutations Algorithm](JavaScript/Loops) |
+| iii.     | - | [Implement the Chunky Monkey Algorithm](JavaScript/Loops) |
