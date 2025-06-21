@@ -165,5 +165,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Recipe Tracker](JavaScript/Objects/Build-a-Recipe-Tracker.js) | [Build a Quiz Game](JavaScript/Objects/) |
+| i.     | [Build a Recipe Tracker](JavaScript/Objects/Build-a-Recipe-Tracker.js) | [Build a Quiz Game](JavaScript/Objects/lab-quiz-game.js) |
 
