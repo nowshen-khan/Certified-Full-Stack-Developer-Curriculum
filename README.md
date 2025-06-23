@@ -174,3 +174,14 @@
 | i.     | [Build a Sentence Analyzer](JavaScript/Loops/Build_a_Sentence_Analyzer.js) | [Build a Factorial Calculator](JavaScript/Loops/build-a-factorial-calculator.js) |
 | ii.     | - | [Implement the Mutations Algorithm](JavaScript/Loops/implement-the-mutations-algorithm.js) |
 | iii.     | - | [Implement the Chunky Monkey Algorithm](JavaScript/Loops/implement-the-chunky-monkey-algorithm.js) |
+
+### 7. [JavaScript Fundamentals Review](JavaScript/JavaScript_Fundamentals_Review)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | -| [Implement the Slice and Splice Algorithm](JavaScript/JavaScript_Fundamentals_Review) |
+| ii.     | - | [Build a Pyramid Generator](JavaScript/JavaScript_Fundamentals_Review) |
+| iii.     | - | [Build a Gradebook App](JavaScript/JavaScript_Fundamentals_Review) |
+| iv.     | - | [Build an Inventory Management Program](JavaScript/JavaScript_Fundamentals_Review) |
+| v.     | - | [Build a Password Generator App](JavaScript/JavaScript_Fundamentals_Review) |
+| vi.     | - | [Design a Sum All Numbers Algorithm](JavaScript/JavaScript_Fundamentals_Review) |
