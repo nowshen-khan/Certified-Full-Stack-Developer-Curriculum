@@ -171,6 +171,6 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Sentence Analyzer](JavaScript/Loops/Build_a_Sentence_Analyzer.js) | [Build a Factorial Calculator](JavaScript/Loops) |
-| ii.     | - | [Implement the Mutations Algorithm](JavaScript/Loops) |
-| iii.     | - | [Implement the Chunky Monkey Algorithm](JavaScript/Loops) |
+| i.     | [Build a Sentence Analyzer](JavaScript/Loops/Build_a_Sentence_Analyzer.js) | [Build a Factorial Calculator](JavaScript/Loops/build-a-factorial-calculator.js) |
+| ii.     | - | [Implement the Mutations Algorithm](JavaScript/Loops/implement-the-mutations-algorithm.js) |
+| iii.     | - | [Implement the Chunky Monkey Algorithm](JavaScript/Loops/implement-the-chunky-monkey-algorithm.js) |
