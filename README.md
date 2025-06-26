@@ -179,9 +179,9 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | -| [Implement the Slice and Splice Algorithm](JavaScript/JavaScript_Fundamentals_Review) |
-| ii.     | - | [Build a Pyramid Generator](JavaScript/JavaScript_Fundamentals_Review) |
-| iii.     | - | [Build a Gradebook App](JavaScript/JavaScript_Fundamentals_Review) |
+| i.     | -| [Implement the Slice and Splice Algorithm](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
+| ii.     | - | [Build a Pyramid Generator](JavaScript/JavaScript_Fundamentals_Review/lab-pyramid-generator.js) |
+| iii.     | - | [Build a Gradebook App](JavaScript/JavaScript_Fundamentals_Review/build-a-gradebook-app.js) |
 | iv.     | - | [Build an Inventory Management Program](JavaScript/JavaScript_Fundamentals_Review) |
 | v.     | - | [Build a Password Generator App](JavaScript/JavaScript_Fundamentals_Review) |
 | vi.     | - | [Design a Sum All Numbers Algorithm](JavaScript/JavaScript_Fundamentals_Review) |
