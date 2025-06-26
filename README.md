@@ -12,6 +12,7 @@
 | ii.     | [Build a Cat Photo App](HTML/BasicHTML/build-a-cat-photo-app.html) | [Build a Recipe Page](HTML/BasicHTML/build-a-recipe-page.html) |
 | iii.    | - | [Build a Travel Agency Page](HTML/BasicHTML/build-a-travel-agency-page.html) |
 | iv.   | - | [Build a Video Compilation Page](HTML/BasicHTML/build-a-video-compilation-page.html) |
+| v.   | - | [Debug a Pet Adoption Page](HTML/BasicHTML/lab-debug-pet-adoption-page.html) |
 
 ### 2. [Semantic HTML](HTML/SemanticHTML)
 
