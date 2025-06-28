@@ -9,10 +9,10 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Curriculum Outline](HTML/BasicHTML/Build_a_Curriculum_Outline.html) | [Debug Camperbot's Profile Page](HTML/BasicHTML/lab-debug-camperbots-profile-page.html) |
-| ii.     | [Build a Cat Photo App](HTML/BasicHTML/build-a-cat-photo-app.html) | [Build a Recipe Page](HTML/BasicHTML/build-a-recipe-page.html) |
-| iii.    | - | [Build a Travel Agency Page](HTML/BasicHTML/build-a-travel-agency-page.html) |
-| iv.   | - | [Build a Video Compilation Page](HTML/BasicHTML/build-a-video-compilation-page.html) |
-| v.   | - | [Debug a Pet Adoption Page](HTML/BasicHTML/lab-debug-pet-adoption-page.html) |
+| ii.    | [Build a Cat Photo App](HTML/BasicHTML/build-a-cat-photo-app.html) | [Build a Recipe Page](HTML/BasicHTML/build-a-recipe-page.html) |
+| iii.   | - | [Build a Travel Agency Page](HTML/BasicHTML/build-a-travel-agency-page.html) |
+| iv.    | - | [Build a Video Compilation Page](HTML/BasicHTML/build-a-video-compilation-page.html) |
+| v.     | - | [Debug a Pet Adoption Page](HTML/BasicHTML/lab-debug-pet-adoption-page.html) |
 
 ### 2. [Semantic HTML](HTML/SemanticHTML)
 
@@ -25,15 +25,15 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Build a Hotel Feedback Form](HTML/FormsAndTables/build-a-hotel-feedback-form.html) | [Build a Survey Form](HTML/FormsAndTables/build-a-survey-form.html) |
-| ii.     | [Build a Final Exams Table](HTML/FormsAndTables/build-a-final-exam-table.html) | [Build a Book Catalog Table](HTML/FormsAndTables/build-a-book-catalog-table.html) |
+| ii.    | [Build a Final Exams Table](HTML/FormsAndTables/build-a-final-exam-table.html) | [Build a Book Catalog Table](HTML/FormsAndTables/build-a-book-catalog-table.html) |
 
 ### 4. [Accessibility](HTML/Accessibility)
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | - | [Build a Checkout Page](HTML/Accessibility/build-a-checkout-page.html) |
-| ii.     | - | [Build a Multimedia Player](HTML/Accessibility/lab-multimedia-player.html) |
-| iii.     | - | [Design a Movie Review Page](HTML/Accessibility/design-a-movie-review-page.html) |
+| ii.    | - | [Build a Multimedia Player](HTML/Accessibility/lab-multimedia-player.html) |
+| iii.   | - | [Design a Movie Review Page](HTML/Accessibility/design-a-movie-review-page.html) |
 
 ## CSS
 
@@ -42,8 +42,8 @@
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
 | i.     | [Design a Cafe Menu HTML](CSS/BasicCSS/design-a-cafe-menu.html) <br> [& CSS](CSS/BasicCSS/design-a-cafe-menu.css)  | [Design a Business Card HTML](CSS/BasicCSS/design-a-business-card.html) <br> [& CSS](CSS/BasicCSS/design-a-business-card.css) |
-| ii.     | - | [Build a Stylized To-Do List HTML](CSS/BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](CSS/BasicCSS/build-a-stylized-to-do-list.css) |
-| iii.     | - | [Design a Blog Post Card HTML](CSS/BasicCSS/lab-blog-post-card.html) <br> [& CSS](CSS/BasicCSS/lab-blog-post-card.css) |
+| ii.    | - | [Build a Stylized To-Do List HTML](CSS/BasicCSS/build-a-stylized-to-do-list.html) <br> [& CSS](CSS/BasicCSS/build-a-stylized-to-do-list.css) |
+| iii.   | - | [Design a Blog Post Card HTML](CSS/BasicCSS/lab-blog-post-card.html) <br> [& CSS](CSS/BasicCSS/lab-blog-post-card.css) |
 
 ### 2. [Absolute and Relative Units](CSS/AbsoluteAndRelativeUnits)
 
@@ -180,9 +180,16 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | -| [Implement the Slice and Splice Algorithm](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
+| i.     | - | [Implement the Slice and Splice Algorithm](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
 | ii.     | - | [Build a Pyramid Generator](JavaScript/JavaScript_Fundamentals_Review/lab-pyramid-generator.js) |
 | iii.     | - | [Build a Gradebook App](JavaScript/JavaScript_Fundamentals_Review/build-a-gradebook-app.js) |
 | iv.     | - | [Build an Inventory Management Program](JavaScript/JavaScript_Fundamentals_Review/build-an-inventory-management-program.js) |
 | v.     | - | [Build a Password Generator App](JavaScript/JavaScript_Fundamentals_Review/lab-password-generator.js) |
 | vi.     | - | [Design a Sum All Numbers Algorithm](JavaScript/JavaScript_Fundamentals_Review/lab-sum-all-numbers-algorithm.js) |
+
+### 8. [Higher Order Functions and Callbacks](JavaScript/Higher_Order_Functions_and_Callbacks)
+
+| Serial | Workshop | Lab |
+|--------|---------------------------------|--------------------------------|
+| i.     | [Build a Library Manager](JavaScript/Higher_Order_Functions_and_Callbacks/Build_a_Library_Manager.js) | [Build a Book Organizer](JavaScript/Higher_Order_Functions_and_Callbacks) |
+
