@@ -191,5 +191,5 @@
 
 | Serial | Workshop | Lab |
 |--------|---------------------------------|--------------------------------|
-| i.     | [Build a Library Manager](JavaScript/Higher_Order_Functions_and_Callbacks/Build_a_Library_Manager.js) | [Build a Book Organizer](JavaScript/Higher_Order_Functions_and_Callbacks) |
+| i.     | [Build a Library Manager](JavaScript/Higher_Order_Functions_and_Callbacks/Build_a_Library_Manager.js) | [Build a Book Organizer](JavaScript/Higher_Order_Functions_and_Callbacks/build-a-book-organizer.js) |
 
