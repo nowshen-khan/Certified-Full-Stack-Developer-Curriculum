@@ -202,7 +202,7 @@
 
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
-| **i** | **📖 [Build a Storytelling App](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App)** | [`HTML`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/index.html) <br> [`CSS`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/styles.css) <br> [`JS`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/script.js) | **❤️ Build a Favorite Icon Toggler** | [`HTML`](JavaScript/DOM_Manipulation_and_Events/Build_a_Favorite_Icon_Toggler/index.html)<br>[`CSS`]()<br>[`JS`]() |
+| **i** | **📖 [Build a Storytelling App](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App)** | [`HTML`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/index.html) <br> [`CSS`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/styles.css) <br> [`JS`](JavaScript/DOM_Manipulation_and_Events/Build_a_Storytelling_App/script.js) | **❤️ Build a Favorite Icon Toggler** | [`HTML CSS JS`](JavaScript/DOM_Manipulation_and_Events/Build_a_Favorite_Icon_Toggler.html) |
 | **ii** | **🎵 Music Instrument Filter** | [`HTML`]()<br>[`CSS`]()<br>[`JS`]() | **🔢 Real-Time Character Counter** | [`HTML`]()<br>[`CSS`]()<br>[`JS`]() |
 | **iii** | **✊✋✌️ Rock-Paper-Scissors Game** | [`HTML`]()<br>[`CSS`]()<br>[`JS`]() | **🖼️ Image Lightbox Gallery** | [`HTML`]()<br>[`CSS`]()<br>[`JS`]() |
 | **iv** | — | — | **⚽ Football Team Cards** | [`HTML`]()<br>[`CSS`]()<br>[`JS`]() |

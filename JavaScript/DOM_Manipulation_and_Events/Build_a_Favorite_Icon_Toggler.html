@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Favorite Icon Toggler</title>
+		<style>
+			.favorite-icon {
+				background: none;
+				border: none;
+				cursor: pointer;
+				font-size: 1.5em;
+				transition: all 0.3s;
+			}
+
+			.filled {
+				color: red;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Art Supplies</h1>
+		<ul class="item-list">
+			<li>120 gm paper <button class="favorite-icon">&#9825;</button></li>
+			<li>Watercolor set <button class="favorite-icon">&#9825;</button></li>
+			<li>Lead pencil 6B <button class="favorite-icon">&#9825;</button></li>
+		</ul>
+
+		<script>
+			const favoriteButtons = document.querySelectorAll(".favorite-icon");
+
+			favoriteButtons.forEach((button) =>
+				button.addEventListener("click", function () {
+					if (this.classList.contains("filled")) {
+						this.classList.remove("filled");
+						this.innerHTML = "&#9825;";
+					} else {
+						this.classList.add("filled");
+						this.innerHTML = "&#10084;";
+					}
+				})
+			);
+		</script>
+	</body>
+</html>
