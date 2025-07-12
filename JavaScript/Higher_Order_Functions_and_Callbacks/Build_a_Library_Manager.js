@@ -55,34 +55,36 @@ const library = [
 	},
 ];
 
-function displayBooks(catalog) {
-	let output = "Books in the Library:\n";
+console.log("Books in the Library:\n");
 
-	catalog.forEach((book) => {
-		output += `- ${book.title} by ${book.author} (${book.pages} pages)\n`;
-	});
-
-	return output;
+function getBookInformation(catalog) {
+	return catalog.map((book) => `${book.title} by ${book.author}`).join("\n");
 }
+
+console.log(getBookInformation(library));
+
+console.log("\nList of book summaries:\n");
 
 function getBookSummaries(catalog) {
-	return catalog.map((book) => book.about);
+	return catalog.map((book) => book.about).join("\n");
 }
+
+console.log(getBookSummaries(library));
+
+console.log("\nList of books by Arvid Kahl:\n");
 
 function getBooksByAuthor(catalog, author) {
 	return catalog.filter((book) => book.author === author);
 }
 
+console.log(getBooksByAuthor(library, "Arvid Kahl"));
+
+console.log("\nList of books by James Clear:\n");
+console.log(getBooksByAuthor(library, "James Clear"));
+
+console.log("\nTotal number of pages for all library books:\n");
+
 function getTotalPages(catalog) {
 	return catalog.reduce((acc, book) => acc + book.pages, 0);
 }
-
-const libraryBooks = displayBooks(library);
-const bookSummaries = getBookSummaries(library);
-const booksByArvidKahl = getBooksByAuthor(library, "Arvid Kahl");
-const totalPagesOfBooksInLibrary = getTotalPages(library);
-
-console.log(libraryBooks);
-console.log(bookSummaries);
-console.log(booksByArvidKahl);
-console.log(totalPagesOfBooksInLibrary);
+console.log(getTotalPages(library));
