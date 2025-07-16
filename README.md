@@ -166,6 +166,7 @@
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **Build a Shopping List** | [`JS`](JavaScript/Arrays/Build_a_Shopping_List.js) | **Build a Lunch Picker Program** | [`JS`](JavaScript/Arrays/build-a-lunch-picker-program.js) |
+| **ii** | - | - | **Build a String Inverter** | [`JS`](JavaScript/Arrays/build-a-string-inverter.js) |
 
 ### 5. [Objects](JavaScript/Objects)
 
