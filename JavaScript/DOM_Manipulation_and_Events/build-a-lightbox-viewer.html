@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lightbox Viewer</title>
+		<style>
+			.lightbox {
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background-color: rgba(0, 0, 0, 0.8);
+				display: none;
+				justify-content: center;
+				align-items: center;
+			}
+			#lightbox-image {
+				max-width: 90%;
+				max-height: 90%;
+			}
+
+			#close-btn {
+				position: absolute;
+				top: 20px;
+				right: 20px;
+				font-size: 30px;
+				color: white;
+				background: none;
+				border: none;
+				cursor: pointer;
+			}
+
+			.gallery {
+				display: flex;
+				gap: 10px;
+			}
+
+			.gallery-item {
+				cursor: pointer;
+				width: 200px;
+				height: auto;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Lightbox Viewer</h1>
+		<div class="gallery">
+			<img
+				class="gallery-item"
+				src="https://cdn.freecodecamp.org/curriculum/labs/stonehenge-thumbnail.jpg"
+			/>
+			<img
+				class="gallery-item"
+				src="https://cdn.freecodecamp.org/curriculum/labs/storm-thumbnail.jpg"
+			/>
+			<img
+				class="gallery-item"
+				src="https://cdn.freecodecamp.org/curriculum/labs/trees-thumbnail.jpg"
+			/>
+		</div>
+		<div class="lightbox">
+			<button id="close-btn">&times;</button>
+			<img id="lightbox-image" src="" />
+		</div>
+		<script>
+			const galleryItem = document.querySelectorAll(".gallery-item");
+			galleryItem.forEach((item) => {
+				item.addEventListener("click", (event) => {
+					const lightbox = document.querySelector(".lightbox");
+					const lightboxImg = document.querySelector("#lightbox-image");
+					const imgSrc = event.target.src.replace("-thumbnail", "");
+					lightbox.style.display = "flex";
+					lightboxImg.src = imgSrc;
+				});
+			});
+			const closeBtn = document.querySelector("#close-btn");
+			closeBtn.addEventListener("click", () => {
+				document.querySelector(".lightbox").style.display = "none";
+			});
+			document.querySelector(".lightbox").addEventListener("click", (e) => {
+				if (e.target === document.querySelector(".lightbox")) {
+					document.querySelector(".lightbox").style.display = "none";
+				}
+			});
+		</script>
+	</body>
+</html>
