@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Build a Set of Football Team Cards</title>
+		<style>
+			*,
+			*::before,
+			*::after {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+			}
+
+			:root {
+				--dark-grey: #0a0a23;
+				--light-grey: #f5f6f7;
+				--white: #ffffff;
+				--black: #000;
+			}
+
+			body {
+				background-color: var(--dark-grey);
+				text-align: center;
+				padding: 10px;
+			}
+
+			.title,
+			.options-label,
+			.team-stats,
+			footer {
+				color: var(--white);
+			}
+
+			.title {
+				margin: 1.3rem 0;
+			}
+
+			.team-stats {
+				display: flex;
+				justify-content: space-around;
+				flex-wrap: wrap;
+				font-size: 1.3rem;
+				margin: 1.2rem 0;
+			}
+
+			.options-label {
+				font-size: 1.2rem;
+			}
+
+			.cards {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				align-items: center;
+			}
+
+			.player-card {
+				background-color: var(--light-grey);
+				padding: 1.3rem;
+				margin: 1.2rem;
+				width: 300px;
+				border-radius: 15px;
+			}
+
+			@media (max-width: 768px) {
+				.team-stats {
+					flex-direction: column;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<h1 class="title">Team stats</h1>
+		<main>
+			<div class="team-stats">
+				<p>Team: <span id="team"></span></p>
+				<p>Year: <span id="year"></span></p>
+				<p>Head coach: <span id="head-coach"></span></p>
+			</div>
+			<label class="options-label" for="players">Filter Teammates:</label>
+			<select name="players" id="players">
+				<option value="all">All Players</option>
+				<option value="forward">Position Forward</option>
+				<option value="midfielder">Position Midfielder</option>
+				<option value="defender">Position Defender</option>
+				<option value="goalkeeper">Position Goalkeeper</option>
+			</select>
+			<div class="cards" id="player-cards"></div>
+		</main>
+		<footer>&copy; freeCodeCamp</footer>
+
+		<script>
+			const footballTeam = {
+				team: "Bangladesh",
+				year: 2025,
+				headCoach: "Javier Fernández Cabrera",
+				players: [
+					{ name: "Mitul Marma", position: "goalkeeper", isCaptain: false },
+					{ name: "Topu Barman", position: "defender", isCaptain: false },
+					{ name: "Jamal Bhuiyan", position: "midfielder", isCaptain: true },
+					{ name: "Tariq Kazi", position: "defender", isCaptain: false },
+					{
+						name: "Anisur Rahman Zico",
+						position: "goalkeeper",
+						isCaptain: false,
+					},
+					{ name: "Rahmat Mia", position: "defender", isCaptain: false },
+					{ name: "Bishwanath Ghosh", position: "defender", isCaptain: false },
+					{ name: "Yeasin Arafat", position: "defender", isCaptain: false },
+					{
+						name: "Nasiruddin Chowdhury",
+						position: "midfielder",
+						isCaptain: false,
+					},
+					{ name: "Sohel Rana", position: "midfielder", isCaptain: false },
+					{ name: "Mamunul Islam", position: "midfielder", isCaptain: false },
+					{ name: "Biplu Ahmed", position: "midfielder", isCaptain: false },
+					{
+						name: "Mohammad Ibrahim",
+						position: "midfielder",
+						isCaptain: false,
+					},
+					{ name: "Rakib Hossain", position: "midfielder", isCaptain: false },
+					{ name: "Mahbubur Rahman", position: "forward", isCaptain: false },
+					{ name: "Faisal Ahmed Fahim", position: "forward", isCaptain: false },
+					{ name: "Suman Reza", position: "forward", isCaptain: false },
+					{ name: "Saad Uddin", position: "forward", isCaptain: false },
+					{ name: "Jewel Rana", position: "midfielder", isCaptain: false },
+					{ name: "Arifur Rahman", position: "defender", isCaptain: false },
+				],
+			};
+
+			const team = document.getElementById("team");
+			const year = document.getElementById("year");
+			const coach = document.getElementById("head-coach");
+			team.innerText = footballTeam.team;
+			year.innerText = footballTeam.year;
+			coach.innerText = footballTeam.headCoach;
+
+			const playerCards = document.getElementById("player-cards");
+			const playerFilter = document.getElementById("players");
+
+			function renderPlayers(filter = "all") {
+				const filteredPlayers = footballTeam.players.filter((player) => {
+					if (filter === "all") {
+						return true;
+					}
+					return player.position === filter;
+				});
+
+				const playersHTML = filteredPlayers
+					.map((player) => {
+						const captain = player.isCaptain ? "(Captain)" : "";
+						return `
+			    <div class="player-card">
+			      <h2>${captain} ${player.name}</h2>
+			      <p>Position: ${player.position}</p>
+			    </div>
+			  `;
+					})
+					.join("");
+				playerCards.innerHTML = playersHTML;
+			}
+
+			playerFilter.addEventListener("change", (e) => {
+				renderPlayers(e.target.value);
+			});
+
+			renderPlayers();
+		</script>
+	</body>
+</html>
