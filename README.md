@@ -160,6 +160,7 @@
 | **i** | **Build a Calculator** | [`JS`](JavaScript/Functions/Build_a_Calculator.js) | **Build an Email Masker** | [`JS`](JavaScript/Functions/build-an-email-masker.js) |
 | **ii** | **Build a Loan Qualification Checker** | [`JS`](JavaScript/Functions/Build-a-Loan-Qualification-Checker.js) | **Build a Leap Year Calculator** | [`JS`](JavaScript/Functions/build-a-leap-year-calculator.js) |
 | **iii** | **-** | - | **Implement the Truncate String Algorithm** | [`JS`](JavaScript/Functions/truncate-a-string.js) |
+| **iv** | **-** | - | **Build a Celsius to Fahrenheit Converter** | [`JS`](JavaScript/Functions/build-a-celsius-to-fahrenheit-converter.js) |
 
 ### 4. [Arrays](JavaScript/Arrays)
 
@@ -173,6 +174,7 @@
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **Build a Recipe Tracker** | [`JS`](JavaScript/Objects/Build-a-Recipe-Tracker.js) | **Build a Quiz Game** | [`JS`](JavaScript/Objects/lab-quiz-game.js) |
+| **ii** | **-** | [`-`] | **Build a Record Collection** | [`JS`](JavaScript/Objects) |
 
 ### 6. [Loops](JavaScript/Loops)
 
