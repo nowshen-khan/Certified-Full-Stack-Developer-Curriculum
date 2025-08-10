@@ -73,7 +73,7 @@
 
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
-| **i** | **Design a Registration Form** | [`HTML`](CSS/StylingForms/Workshop_Design_a_Registration_Form.html) <br> [`CSS`](CSS/StylingForms/Workshop_Design_a_Registration_Form.css) | **Design a Contact Form** | [`HTML`](CSS/StylingForms/design-a-contact-form.html)<br>[`CSS`](CSS/StylingForms/design-a-contact-form.css) |
+| **i** | **Design a Registration Form** | [`HTML`](CSS/StylingForms/Design_a_Registration_Form.html) <br> [`CSS`](CSS/StylingForms/Design_a_Registration_Form.css) | **Design a Contact Form** | [`HTML`](CSS/StylingForms/design-a-contact-form.html)<br>[`CSS`](CSS/StylingForms/design-a-contact-form.css) |
 
 ### 6. [The Box Model](CSS/The_Box_Model)
 
