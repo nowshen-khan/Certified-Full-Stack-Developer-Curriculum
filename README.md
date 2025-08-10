@@ -12,7 +12,7 @@
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **Build a Curriculum Outline** | [`HTML`](HTML/BasicHTML/Build_a_Curriculum_Outline.html) | **Debug Camperbot's Profile Page** | [`HTML`](HTML/BasicHTML/lab-debug-camperbots-profile-page.html) |
 | **ii** | **Build a Cat Photo App** | [`HTML`](HTML/BasicHTML/build-a-cat-photo-app.html) | **Build a Recipe Page** | [`HTML`](HTML/BasicHTML/build-a-recipe-page.html) |
-| **iii** | - | - | **Build a Travel Agency Page** | [`HTML`](HTML/BasicHTML/build-a-travel-agency-page.html) |
+| **iii** | **Build a Heart Icon** | [`HTML`](HTML/BasicHTML/build-a-heart-icon.html) | **Build a Travel Agency Page** | [`HTML`](HTML/BasicHTML/build-a-travel-agency-page.html) |
 | **iv** | — | — | **Build a Video Compilation Page** | [`HTML`](HTML/BasicHTML/build-a-video-compilation-page.html) |
 | **v** | — | — | **Debug a Pet Adoption Page** | [`HTML`](HTML/BasicHTML/lab-debug-pet-adoption-page.html) |
 
