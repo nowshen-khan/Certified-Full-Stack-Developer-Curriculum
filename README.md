@@ -193,12 +193,14 @@
 
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
-| **i** | **-** | - | **Implement the Slice and Splice Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
-| **ii** | **-** | - | **Build a Pyramid Generator** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-pyramid-generator.js) |
-| **iii** | **-** | - | **Build a Gradebook App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-a-gradebook-app.js) |
-| **iv** | **-** | - | **Build an Inventory Management Program** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-an-inventory-management-program.js) |
-| **v** | **-** | - | **Build a Password Generator App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-password-generator.js) |
-| **vi** | **-** | - | **Design a Sum All Numbers Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-sum-all-numbers-algorithm.js) |
+| **i** | **-** | - | **Build the Largest Number Finder** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-the-largest-number-finder.js) |
+| **ii** | **-** | - | **Build a First Element Finder** | [`JS`](JavaScript/JavaScript_Fundamentals_Review) |
+| **iii** | **-** | - | **Implement the Slice and Splice Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
+| **iv** | **-** | - | **Build a Pyramid Generator** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-pyramid-generator.js) |
+| **v** | **-** | - | **Build a Gradebook App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-a-gradebook-app.js) |
+| **vi** | **-** | - | **Build an Inventory Management Program** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-an-inventory-management-program.js) |
+| **vii** | **-** | - | **Build a Password Generator App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-password-generator.js) |
+| **viii** | **-** | - | **Design a Sum All Numbers Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-sum-all-numbers-algorithm.js) |
 
 ### 8. [Higher Order Functions and Callbacks](JavaScript/Higher_Order_Functions_and_Callbacks)
 
