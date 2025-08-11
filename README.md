@@ -176,7 +176,7 @@
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **Build a Recipe Tracker** | [`JS`](JavaScript/Objects/Build-a-Recipe-Tracker.js) | **Build a Quiz Game** | [`JS`](JavaScript/Objects/lab-quiz-game.js) |
-| **ii** | **-** | [`-`] | **Build a Record Collection** | [`JS`](JavaScript/Objects) |
+| **ii** | **-** | [`-`] | **Build a Record Collection** | [`JS`](JavaScript/Objects/build-a-record-collection.js) |
 
 ### 6. [Loops](JavaScript/Loops)
 
@@ -185,6 +185,9 @@
 | **i** | **Build a Sentence Analyzer** | [`JS`](JavaScript/Loops/Build_a_Sentence_Analyzer.js) | **Build a Factorial Calculator** | [`JS`](JavaScript/Loops/build-a-factorial-calculator.js) |
 | **ii** | **-** | - | **Implement the Mutations Algorithm** | [`JS`](JavaScript/Loops/implement-the-mutations-algorithm.js) |
 | **iii** | **-** | - | **Implement the Chunky Monkey Algorithm** | [`JS`](JavaScript/Loops/implement-the-chunky-monkey-algorithm.js) |
+| **iv** | **-** | - | **Build a Longest Word Finder App** | [`JS`](JavaScript/Loops/build-a-longest-word-finder-app.js) |
+| **v** | **-** | - | **Build a String Repeating Function** | [`JS`](JavaScript/Loops/build-a-string-repeating-function.js) |
+| **vi** | **-** | - | **Build a Profile Lookup** | [`JS`](JavaScript/Loops/) |
 
 ### 7. [JavaScript Fundamentals Review](JavaScript/JavaScript_Fundamentals_Review)
 
