@@ -194,7 +194,7 @@
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **-** | - | **Build the Largest Number Finder** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-the-largest-number-finder.js) |
-| **ii** | **-** | - | **Build a First Element Finder** | [`JS`](JavaScript/JavaScript_Fundamentals_Review) |
+| **ii** | **-** | - | **Build a First Element Finder** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-a-first-element-finder.js) |
 | **iii** | **-** | - | **Implement the Slice and Splice Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-the-slice-and-splice-algorithm.js) |
 | **iv** | **-** | - | **Build a Pyramid Generator** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-pyramid-generator.js) |
 | **v** | **-** | - | **Build a Gradebook App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-a-gradebook-app.js) |
