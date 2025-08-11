@@ -187,7 +187,7 @@
 | **iii** | **-** | - | **Implement the Chunky Monkey Algorithm** | [`JS`](JavaScript/Loops/implement-the-chunky-monkey-algorithm.js) |
 | **iv** | **-** | - | **Build a Longest Word Finder App** | [`JS`](JavaScript/Loops/build-a-longest-word-finder-app.js) |
 | **v** | **-** | - | **Build a String Repeating Function** | [`JS`](JavaScript/Loops/build-a-string-repeating-function.js) |
-| **vi** | **-** | - | **Build a Profile Lookup** | [`JS`](JavaScript/Loops/) |
+| **vi** | **-** | - | **Build a Profile Lookup** | [`JS`](JavaScript/Loops/lab-profile-lookup.js) |
 
 ### 7. [JavaScript Fundamentals Review](JavaScript/JavaScript_Fundamentals_Review)
 
