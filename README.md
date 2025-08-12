@@ -229,3 +229,23 @@
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **-** | - | **Debug a Random Background Color Changer** | [`HTML, CSS, JS`](JavaScript/Debugging/debug-a-random-background-color-changer.html) |
 
+### 12. [Basic Regex](JavaScript/Basic_Regex)
+
+| #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
+|----|---------------------------------|----------------------------|-----------------------------|----------------------------|
+| **i** | **[Build a Spam Filter](JavaScript/Basic_Regex/Build_a_Spam_Filter)** | [`HTML`](JavaScript/) <br> [`CSS`](JavaScript/) <br> [`JS`](JavaScript/) | **Build a Palindrome Checker** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
+| **ii** | **-** | - | **Build a Markdown to HTML Converter** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
+| **iii** | **-** | - | **Build a RegEx Sandbox** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
+
+### 13. [Form Validation](JavaScript/Form_Validation)
+
+| #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
+|----|---------------------------------|----------------------------|-----------------------------|----------------------------|
+| **i** | **[Build a Calorie Counter](JavaScript/Form_Validation/Build_a_Calorie_Counter)** | [`HTML`](JavaScript/Form_Validation/Build_a_Calorie_Counter) <br> [`CSS`](JavaScript/Form_Validation/Build_a_Calorie_Counter) <br> [`JS`](JavaScript/Form_Validation/Build_a_Calorie_Counter) | **Build a Customer Complaint Form** | [`HTML, CSS, JS`](JavaScript/Form_Validation/) |
+
+### 14. [Dates](JavaScript/Dates)
+
+| #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
+|----|---------------------------------|----------------------------|-----------------------------|----------------------------|
+| **i** | **-** | - | **Build a Date Conversion Program** | [`HTML, CSS, JS`](JavaScript/Dates/) |
+
