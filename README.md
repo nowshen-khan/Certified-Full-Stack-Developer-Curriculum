@@ -216,3 +216,16 @@
 | **ii** | **🎵 [Music Instrument Filter](JavaScript/DOM_Manipulation_and_Events/Music_Instrument_Filter/)** | [`HTML`](JavaScript/DOM_Manipulation_and_Events/Music_Instrument_Filter/index.html)<br>[`CSS`](JavaScript/DOM_Manipulation_and_Events/Music_Instrument_Filter/styles.css)<br>[`JS`](JavaScript/DOM_Manipulation_and_Events/Music_Instrument_Filter/script.js) | **🔢 Real-Time Character Counter** | [`HTML, CSS, JS`](JavaScript/DOM_Manipulation_and_Events/build-a-real-time-counter.html) |
 | **iii** | **✊✋✌️ [Rock-Paper-Scissors Game](JavaScript/DOM_Manipulation_and_Events/Rock_Paper_Scissors_Game/)** | [`HTML`](JavaScript/DOM_Manipulation_and_Events/Rock_Paper_Scissors_Game/index.html)<br>[`CSS`](JavaScript/DOM_Manipulation_and_Events/Rock_Paper_Scissors_Game/styles.css)<br>[`JS`](JavaScript/DOM_Manipulation_and_Events/Rock_Paper_Scissors_Game/script.js) | **🖼️ Image Lightbox Gallery** | [`HTML, CSS, JS`](./JavaScript/DOM_Manipulation_and_Events/build-a-lightbox-viewer.html) |
 | **iv** | — | — | **⚽ Football Team Cards** | [`HTML, CSS, JS`](./JavaScript/DOM_Manipulation_and_Events/lab-football-team-cards.html) |
+
+<!-- ### 10. [JavaScript and Accessibility](JavaScript/JavaScript_and_Accessibility)
+
+| #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
+|----|---------------------------------|----------------------------|-----------------------------|----------------------------|
+| **i** | **[](JavaScript/JavaScript_and_Accessibility)** | [`HTML`](JavaScript/JavaScript_and_Accessibility) <br> [`CSS`](JavaScript/JavaScript_and_Accessibility) <br> [`JS`](JavaScript/JavaScript_and_Accessibility) | **-** | [`HTML, CSS, JS`](JavaScript/JavaScript_and_Accessibility) | -->
+
+### 11. [Debugging](JavaScript/Debugging)
+
+| #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
+|----|---------------------------------|----------------------------|-----------------------------|----------------------------|
+| **i** | **-** | - | **Debug a Random Background Color Changer** | [`HTML, CSS, JS`](JavaScript/Debugging/debug-a-random-background-color-changer.html) |
+
