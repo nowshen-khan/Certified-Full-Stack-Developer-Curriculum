@@ -237,7 +237,7 @@
 | **i** | **[Build a Spam Filter](JavaScript/Basic_Regex/Build_a_Spam_Filter)** | [`HTML`](JavaScript/) <br> [`CSS`](JavaScript/) <br> [`JS`](JavaScript/) | **Build a Palindrome Checker** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
 | **ii** | **-** | - | **Build a Markdown to HTML Converter** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
 | **iii** | **-** | - | **Build a RegEx Sandbox** | [`HTML, CSS, JS`](JavaScript/Basic_Regex/) |
-
+<!-- 
 ### 13. [Form Validation](JavaScript/Form_Validation)
 
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
@@ -249,4 +249,4 @@
 | #  | Workshop Project                | Files                      | Lab Project                 | Files                      |
 |----|---------------------------------|----------------------------|-----------------------------|----------------------------|
 | **i** | **-** | - | **Build a Date Conversion Program** | [`HTML, CSS, JS`](JavaScript/Dates/) |
-
+ -->
