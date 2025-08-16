@@ -201,6 +201,7 @@
 | **vi** | **-** | - | **Build an Inventory Management Program** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-an-inventory-management-program.js) |
 | **vii** | **-** | - | **Build a Password Generator App** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-password-generator.js) |
 | **viii** | **-** | - | **Design a Sum All Numbers Algorithm** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-sum-all-numbers-algorithm.js) |
+| **ix** | **-** | - | **Implement an HTML Entity Converter** | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-an-html-entity-converter.js) |
 
 ### 8. [Higher Order Functions and Callbacks](JavaScript/Higher_Order_Functions_and_Callbacks)
 
