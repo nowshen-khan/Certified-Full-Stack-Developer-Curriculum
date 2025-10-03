@@ -189,6 +189,7 @@
 | **iv**  | **-**                         | -                                                     | **Build a Longest Word Finder App**       | [`JS`](JavaScript/Loops/build-a-longest-word-finder-app.js)       |
 | **v**   | **-**                         | -                                                     | **Build a String Repeating Function**     | [`JS`](JavaScript/Loops/build-a-string-repeating-function.js)     |
 | **vi**  | **-**                         | -                                                     | **Build a Profile Lookup**                | [`JS`](JavaScript/Loops/lab-profile-lookup.js)                    |
+| **vii** | **-**                         | -                                                     | **Build a Missing Letter Detector**       | [`JS`](JavaScript/Loops/build-a-missing-letter-detector.js)       |
 
 ### 7. [JavaScript Fundamentals Review](JavaScript/JavaScript_Fundamentals_Review)
 
@@ -203,6 +204,8 @@
 | **vii**  | **-**            | -     | **Build a Password Generator App**           | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-password-generator.js)                   |
 | **viii** | **-**            | -     | **Design a Sum All Numbers Algorithm**       | [`JS`](JavaScript/JavaScript_Fundamentals_Review/lab-sum-all-numbers-algorithm.js)            |
 | **ix**   | **-**            | -     | **Implement an HTML Entity Converter**       | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-an-html-entity-converter.js)       |
+| **x**    | **-**            | -     | **Build a Title Case Converter**             | [`JS`](JavaScript/JavaScript_Fundamentals_Review/build-a-title-case-converter.js)             |
+| **xi**   | **-**            | -     | **Implement a Falsy Remover**                | [`JS`](JavaScript/JavaScript_Fundamentals_Review/implement-a-falsy-remover.js)                |
 
 ### 8. [Higher Order Functions and Callbacks](JavaScript/Higher_Order_Functions_and_Callbacks)
 
