@@ -8,13 +8,14 @@
 
 ### 1. [Basic HTML](HTML/BasicHTML)
 
-| #       | Workshop Project               | Files                                                    | Lab Project                        | Files                                                           |
-| ------- | ------------------------------ | -------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------- |
-| **i**   | **Build a Curriculum Outline** | [`HTML`](HTML/BasicHTML/Build_a_Curriculum_Outline.html) | **Debug Camperbot's Profile Page** | [`HTML`](HTML/BasicHTML/lab-debug-camperbots-profile-page.html) |
-| **ii**  | **Build a Cat Photo App**      | [`HTML`](HTML/BasicHTML/build-a-cat-photo-app.html)      | **Build a Recipe Page**            | [`HTML`](HTML/BasicHTML/build-a-recipe-page.html)               |
-| **iii** | **Build a Heart Icon**         | [`HTML`](HTML/BasicHTML/build-a-heart-icon.html)         | **Build a Travel Agency Page**     | [`HTML`](HTML/BasicHTML/build-a-travel-agency-page.html)        |
-| **iv**  | —                              | —                                                        | **Build a Video Compilation Page** | [`HTML`](HTML/BasicHTML/build-a-video-compilation-page.html)    |
-| **v**   | —                              | —                                                        | **Debug a Pet Adoption Page**      | [`HTML`](HTML/BasicHTML/lab-debug-pet-adoption-page.html)       |
+| #       | Workshop Project                       | Files                                                               | Lab Project                              | Files                                                              |
+| ------- | -------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------ |
+| **i**   | **Build a Curriculum Outline**         | [`HTML`](HTML/BasicHTML/Build_a_Curriculum_Outline.html)            | **Debug Camperbot's Profile Page**       | [`HTML`](HTML/BasicHTML/lab-debug-camperbots-profile-page.html)    |
+| **ii**  | **Build a Cat Photo App**              | [`HTML`](HTML/BasicHTML/build-a-cat-photo-app.html)                 | **Build a Recipe Page**                  | [`HTML`](HTML/BasicHTML/build-a-recipe-page.html)                  |
+| **iii** | **Build a Heart Icon**                 | [`HTML`](HTML/BasicHTML/build-a-heart-icon.html)                    | **Build a Travel Agency Page**           | [`HTML`](HTML/BasicHTML/build-a-travel-agency-page.html)           |
+| **iv**  | **Build a Bookstore Page**             | [`HTML`](HTML/BasicHTML/Build-a-Bookstore-Page.html)                | **Build a Video Compilation Page**       | [`HTML`](HTML/BasicHTML/build-a-video-compilation-page.html)       |
+| **v**   | **Build a List of Major Web Browsers** | [`HTML`](HTML/SemanticHTML/Build-a-List-of-Major-Web-Browsers.html) | **Debug a Pet Adoption Page**            | [`HTML`](HTML/BasicHTML/lab-debug-pet-adoption-page.html)          |
+| **vi**  | **Build a Video Display Using iframe** | [`HTML`](HTML/BasicHTML/Build-a-Video-Display-Using-iframe.html)    | **Build an HTML Audio and Video Player** | [`HTML`](HTML/BasicHTML/build-an-html-audio-and-video-player.html) |
 
 ### 2. [Semantic HTML](HTML/SemanticHTML)
 
