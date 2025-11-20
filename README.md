@@ -19,9 +19,11 @@
 
 ### 2. [Semantic HTML](HTML/SemanticHTML)
 
-| #     | Workshop Project          | Files                                                  | Lab Project            | Files                                          |
-| ----- | ------------------------- | ------------------------------------------------------ | ---------------------- | ---------------------------------------------- |
-| **i** | **Build a Cat Blog Page** | [`HTML`](HTML/SemanticHTML/build-a-cat-blog-page.html) | **Build an Event Hub** | [`HTML`](HTML/SemanticHTML/lab-event-hub.html) |
+| #     | Workshop Project                       | Files                                                               | Lab Project            | Files                                          |
+| ----- | -------------------------------------- | ------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
+| **i** | **Build a Cat Blog Page**              | [`HTML`](HTML/SemanticHTML/build-a-cat-blog-page.html)              | **Build an Event Hub** | [`HTML`](HTML/SemanticHTML/lab-event-hub.html) |
+| **i** | **Build a List of Major Web Browsers** | [`HTML`](HTML/SemanticHTML/Build-a-List-of-Major-Web-Browsers.html) | **-**                  | -                                              |
+| **i** | **Build Quincy's Job Tips Page**       | [`HTML`](HTML/SemanticHTML/Build-Quincy's-Job-Tips-Page.html)       | **-**                  | -                                              |
 
 ### 3. [Forms and Tables](HTML/FormsAndTables)
 
